@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-model",
+  "version": "1.0.0",
+  "description": "an e-commerce data model in mongoose",
+  "homepage": "https://github.com/Priyanshu-k-511/basic-ecommerce-model#readme",
+  "bugs": {
+    "url": "https://github.com/Priyanshu-k-511/basic-ecommerce-model/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshu-k-511/basic-ecommerce-model.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "expres": "^0.0.5",
+    "mongoose": "^9.12.1"
+  }
+}
